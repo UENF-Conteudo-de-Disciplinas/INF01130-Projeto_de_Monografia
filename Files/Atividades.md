@@ -12,9 +12,9 @@ Data de entrega: Amanhã, 09:59
 Similar ao anterior...
 Anexo modelo aproximado para seguir..
 
-[Artigo][LinkArtigo]
+[Fundamental Power of Social Media Interactions for Building a Brand and Customer Relations][LinkArtigoRivera]
 
-[LinkArtigo]: https://doi.org/10.3390/jtaer16050096
+[LinkArtigoRivera]: https://doi.org/10.3390/jtaer16050096
 
 ### Resumo artigo - Realizado com auxílio do chat GPT
 
