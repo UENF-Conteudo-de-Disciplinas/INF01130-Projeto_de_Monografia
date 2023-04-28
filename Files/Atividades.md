@@ -47,3 +47,6 @@ Alguns termos e ferramentas a serem futuramente pesquisadas para minha pesquisa:
 - Integer Programming (IP)
 - CPLEX - modelling tool
 - cCOIN-OR Branch-and-Cut
+- The model was initially implemented in the General Algebraic Modeling System (GAMS IDE 2.0.31.8 Rev. 143)
+- solved with the CPLEX solver 9.1.2 [alternatively the open source solver Coin-
+Cbc (Forrest and Lougee-Heimer 2005)]

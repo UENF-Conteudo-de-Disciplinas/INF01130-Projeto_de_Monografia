@@ -626,4 +626,25 @@ Catapulta: trabalhos de travessia de rios
 
 ## Aula 7 - 21/04/2023 - [....., .....] - Feriado
 
-## Aula 8 - 28/04/2023 - [....., .....] - Próximo
+## Aula 8 - 28/04/2023 - [10h22, .....] - Apresentação resumos
+
+### Offtopic 8
+
+- "Tempo ganha"
+
+### Apresentações
+
+scimagojr
+
+- Jhonatan
+  - Lakehouse a new generation of open platforms that unify data warehousing and advanced analytics
+- Dani brito
+  - In vitro neurons learn and exhibit sentience when embodied in a simulated game-world - Kagan 2022
+- Mateus Schulz
+  - Trend following no mercado...
+- Guilherme
+  - ?
+- Javier
+  - Data_analysis_tukey
+
+## Aula 9 - 05/05/2023 - [....., .....] - Próximo
