@@ -26,4 +26,5 @@ de aula
 
 ## Resumo do artigo
 
-Tí
+Título: Problema de Alocação de Horários: um Estudo de Caso Utilizando o Software Livre FET
+
