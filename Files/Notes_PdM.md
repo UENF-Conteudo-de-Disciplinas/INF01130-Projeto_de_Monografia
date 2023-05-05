@@ -647,4 +647,12 @@ scimagojr
 - Javier
   - Data_analysis_tukey
 
-## Aula 9 - 05/05/2023 - [....., .....] - Próximo
+## Aula 9 - 05/05/2023 - [10h10, .....]
+
+- Apresentações
+  - Javier
+  - Guilherme
+  - Dani Brito
+  - Schulz
+
+## Aula 10 - 12/05/2023 - [....., .....] - Próximo
