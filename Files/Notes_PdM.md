@@ -654,5 +654,6 @@ scimagojr
   - Guilherme
   - Dani Brito
   - Schulz
+  - João Dias
 
 ## Aula 10 - 12/05/2023 - [....., .....] - Próximo
