@@ -412,7 +412,7 @@ João Dias
 
 <!-- Tabela -->
 
-## Aula 5 - 07/04/2023 - [....., .....] - Feriado
+## Aula 5 - 07/04/2023 - Feriado
 
 ## Aula 6 - 14/04/2023 - [10h19, 11h36] - Próximo
 
@@ -624,9 +624,9 @@ Catapulta: trabalhos de travessia de rios
     - Testar dependências entre variável manipulada e testada
     - <!--  -->
 
-## Aula 7 - 21/04/2023 - [....., .....] - Feriado
+## Aula 7 - 21/04/2023 - Feriado
 
-## Aula 8 - 28/04/2023 - [10h22, .....] - Apresentação resumos
+## Aula 8 - 28/04/2023 - [10h10, 12h22] - Apresentação resumos
 
 ### Offtopic 8
 
@@ -647,7 +647,7 @@ scimagojr
 - Javier
   - Data_analysis_tukey
 
-## Aula 9 - 05/05/2023 - [10h10, .....]
+## Aula 9 - 05/05/2023 - [10h10, 12h31]
 
 - Apresentações
   - Javier
@@ -655,5 +655,33 @@ scimagojr
   - Dani Brito
   - Schulz
   - João Dias
+  - Jhonatan
+  - Guto
+  - Ralf
 
-## Aula 10 - 12/05/2023 - [....., .....] - Próximo
+## Aula 10 - 12/05/2023 - [10h06, .....]
+
+- Apresentações
+  - Jhonathan
+    - From Data Warehouse to Lakehouse: A Comparative Review
+  - Javier
+    - GSSP PSSP
+    - Mapeamento de iniciativas brasileiras que fomentam a entrada de mulheres na computação
+  - Daniel Brito
+    - A step-by-step tutorial on active inference and its application to empirical data
+  - Mateus Schulz
+    - ...
+  - Guilherme
+    - Methods for Procedural Terrain Generation: A review
+
+## Aula 11 - 19/05/2023 - [10h12, .....]
+
+- Apresentações
+  - Daniel Brito
+    - Ping POMDP
+  - Jhonatan
+  - Guto
+    - An automatic method to medical documents labeling and categorization
+  - Mateus
+  - Javier
+  - Guilherme
