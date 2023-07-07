@@ -14,59 +14,6 @@
 - "O mundo está: computer, computer, computing"
 - Contagem de Steve Jobs: 1
 
-### Introdução (10 slides)
-
-#### Relação entre cursos
-
-Vão de "teóricos, princípios e inovação" a "Aplicação, deployment e configuração". De mais teórico a mais aplicado.
-
-- Problemas de sistemas organizacionais
-- Tecnologias de aplicação
-- Desenvolvimento de software
-- Infraestrutura de sistemas
-- Arquitetura e hardware de computadores
-
-Ele comentou sobre as diferenças entre ciência da computação, sistemas da informação, tecnologia da informação
-
-<!-- Imagem -->
-
-#### Categorias de cursos de computação
-
-MEC: Computação como fim, meio e licenciatura
-
-Ciência da computação, Engenharia de Software, Engenharia da computação -> máquinas -> Demanda humana
-
-Nossa monografia deve ser feita para lidar com a demanda humana para engrandecer a Ciência da computação.
-
-<!-- Me parece muito promissor e de acordo com minha ideia -->
-
-#### Ciência da Computação (MEC)
-
-O objetivo é formar cientistas em computação que serão responsáveis pelo desenvolvimento científico e tecnológico. Responsáveis por criar teorias, métodos, linguagens, modelos, dentre outras coisas relevantes para o ramo.
-
-Também constroem ferramentos que poderão ser utilizadas por outros profissionais da área da computação.
-
-São responsáveis por infraestrutura de software como Sistemas operacionais, compiladores, bancos de dados, navegadores, etc. Também software para sistemas embarcados, móveis, nuvens e automação. Ou seja, responsáveis pelo desenvolvimento de aplicações gerais
-
-Através de métodos e do processo científico, devem visar desenvolver "produtos corretos".
-
-Lidam amplamente com a interdisciplinaridade, através do tratamento computacional para problemas de diversas ciências
-
-#### Livro de referência
-
-Metodologia de Pesquisa para Ciência da Computação - Raul Sidnei Wazlawick
-
-#### Pesquisa?
-
-A monografia de um aluno deve ter:
-
-- Um problema
-- Convencer o orientador
-- Estudar sobre o assunto
-  - escrever um capítulo sobre revisão bibliográfica
-- Forma que ainda não existia para resolver o problema
-  - Aprimoração contínua
-
 ### Ideia para a matéria
 
 Estabelecer um projeto de forma que se avalie o sistema, o custo, os prazos. Programa de atividades.
@@ -80,103 +27,20 @@ terceira parte: escrever os capítulos.
 
 quarta parte: defesa. Entregar os capítulos para as bancas.
 
-### Slide 2 (não sei o nome)
+### Slides
 
-#### Ciência - Classificação
-
-Wikipedia: "Esforço para descobrir e aumentar o conhecimento humano de como a realidade funciona"
-
-Uma das ferramenta dos cientistas para a análise é dividir o universo em segmentos para maior entendimento
-
-Sem observação não analisamos nada.
-
-#### Classificação das ciências
-
-Computação?
-
-Classificação:
-
-- Formais e empíricas
-- Puras e aplicadas
-- Exatas e inexatas
-
-#### Ciências - Classificação
-
-##### Ciências formais e empíricas
-
-###### Ciências formais
-
-As ciências formais estudam ideias, independente de suas aplicações, geralmente visando o raciocínio lógico e matemático.
-
-- Algoritmos
-- Teorias de programação
-- Estrutura de dados
-- Complexidade
-- Linguagens formais
-- Compiladores
-- Computação visual
-- Inteligência artificial
-- Banco de dados
-- etc.
-
-###### Ciências Empíricas
-
-As ciências empíricas estudam as coisas se apoiando em experiências vividas.
-
-- Ciência natural: Relacionado com hardware, máquinas de turing, lógica digital
-- Ciências sociais: Interação humano-computador, engenharia de software
-- Ciência computacional: Métodos numéricos
-
-##### Ciências puras e aplicadas
-
-###### Ciências Puras ou fundamentais
-
-Visam os conceitos básicos do conhecimento. A maioria de seus resultados possuem aplicação prática.
-Teoria do Caos é um exemplo de uma ciência pura que pode ter diversas aplicações.
-Ex.: Sistema de multi-agentes
-
-###### Ciências aplicadas
-
-Descobertas usadas em atividade humana em engenharias de software, de computadores. Muitas vezes confundida com tecnologia, mesmo que sejam coisas distintas.
-
-Ele falou sobre a diferença entre ciência aplicada, produto e tecnologia, mas eu não entendi.
-
-##### Ciências exatas e inexatas
-
-A ciência da computação normalmente é classificada como ciência exata.
-
-Ser exata, significa que ela tende a gerar resultados precisos. Experimentos repetidos geram os mesmos resultados.
-
-Ser inexata, significa que os resultados nem sempre são os esperados. É difícil de avaliar todos os dados.
-
-#### Método Científico
-
-"Como ciência, para computação é importante a coleta e explicação dos dados"
-
-Método Científico: "Conjunto de regras básicas para desenvolver uma experiência a fim de produzir novos conceitos, também corrigir e integrar conhecimentos já existentes".
-
-##### Fases do método científico
-
-Observação -> Problema -> Hipótese -> Experiência -> Análise -> Conclusão
-Conclusão -> Hipótese verdadeira -> Divulgação
-Conclusão -> Hipótese Falsa -> Hipótese
-
-Em grego Método = caminho
-
-Paramos em correntes filosóficas predominantes
-
-<!--
-Lista de chamada:
-Guto
-Ralf
-Jhonatan
-Daniel
-Eu
-Leonardo
-Guilherme
-Matheus Dias
-Faltou: Schulz
--->
+- Introdução - 10 slides
+- Slide 2 - Não sei o none
+- Lista de chamada:
+  - Guto
+  - Ralf
+  - Jhonatan
+  - Daniel
+  - Eu
+  - Leonardo
+  - Guilherme
+  - Matheus Dias
+  - Faltou: Schulz
 
 ## Aula 2 - 17/03/2023 - [10h40, 12h07] - cheguei atrasado
 
@@ -685,3 +549,162 @@ scimagojr
   - Mateus
   - Javier
   - Guilherme
+
+## Aula 12 - 26/05/2023 - Não me lembro o que rolou
+
+## Aula 13 - 02/06/2023 - [11h02, .....] - Cheguei atrasado
+
+- Guilherme
+- Brito (?)
+- Mateus
+- Jonathan
+- João
+
+## Apresentação Final
+
+### Ralf
+
+#### Rivera 1
+
+- Das referências utilizadas, não indicou onde usou cada uma
+- Gastou tempo demais
+
+#### Tang 1
+
+- Tópico interessante mas escopo muito grande
+- Falou que poderia utilizar o uso dos protocolos como marco teórico da área da Ciência da Computação
+
+#### Annabell 1
+
+- Sentiu ser muita coisa
+- Como ele vai obter o material?
+
+#### Luiz Mariano 1
+
+- Gastar muito com o projeto
+
+### Jhonathan
+
+#### Rivera 2
+
+- Imagem muito genérica, um pouco pobre
+
+#### Annabell 2
+
+- Tema muito interessante
+- Ele já havia definido que usaria o datalake híbrido, mas talvez seja um escopo grande demais
+- Temor pelo tempo de duração do desenvolvimento
+- Vocês estão trazendo temas de mestrado (elogio)
+
+#### Tang 2
+
+- Também criticou a escolha da abordagem híbrida logo de cara
+- Sugere uma simulação entre as diferentes arquiteturas
+- Atenção com o tempo
+
+#### Luiz Mariano 2
+
+- Deve-se definir a nuvem
+
+### Daniel Brito:  Apresentação [9h24, 9h51] + Críticas: [9h51, 10h07]
+
+#### Tang 3
+
+- Bom trabalho de pesquisa
+- Pra apresentação, ele não simplificou o suficiente
+- Faltou resumir
+- Poderia reduzir a quantidade de informações biológicas
+
+#### Luiz Mariano 3
+
+- Não é só implementar, é também fazer experimentos
+- No aspecto geral está tranquilo, mas na escrita precisa melhorar
+
+#### Rivera 3
+
+- Explicar melhor na introdução
+
+#### Annabell 3
+
+- Nada a declarar
+
+### Javier
+
+#### Rivera 4
+
+- Título grande demais
+- Faltou hipótese
+
+#### Luiz Mariano 4
+
+- Fez perguntas
+
+#### Tang 4
+
+- É uma área que Javier gosta
+- Poderia expandir mais no estado da arte
+- Achar importante ter um capítulo descrevendo quais são as ações que pode auxiliar na universidade
+
+#### Annabell 4
+
+- Introdução de apenas um parágrafo
+
+### João
+
+#### Rivera 5
+
+- Segundo rivera meus objetivos específicos seriam objetivos meus, não do trabalho
+- O objetivo geral seria uma única inscrição
+
+#### Annabell 5
+
+- Muito bom
+- É legal utilizar os trabalhos anteriores como referência. O da Sânya e a outra lá.
+- Às vezes o "erro humano" não é bem um erro humano, mas sim uma escolha feita de forma pensada.
+- Gostou do uso da área da visualização
+- Focar só no CCT
+
+#### Tang 5
+
+- A abordagem dos trabalhos anteriores é diferente
+- Ele como coordenador precisa fazer grades com informações faltantes só para saber que vai ter sala para as disciplinas
+- A abordagem de solução manual é importantíssima para o caso da uenf
+- Definição de bolsistas são muito específicos
+- Tem que ser um sistema dinâmico para que possa se reajustar dinamicamente
+- O sistema tem que ser pra UENF, não pra Universidades no geral
+
+#### Mariano 5
+
+- Citar a ideia dos algoritmos existentes, e explicar qual eu desejo usar.
+- Deveria focar mais na implementação
+
+### Guilherme
+
+#### Mariano 6
+
+- Perguntas
+
+#### Tang 7
+
+- Muitos elogios
+- Nada a questionar
+
+#### Annabell 7
+
+- Parabéns
+
+#### Rivera 7
+
+- Não falou nada
+
+### Guto
+
+#### Annabell 8
+
+- Tu precisa analisar documentos
+
+#### Tang 8
+
+#### Rivera 8
+
+#### Mariano 8

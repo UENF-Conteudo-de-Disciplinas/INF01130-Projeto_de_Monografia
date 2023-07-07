@@ -48,9 +48,11 @@
   - Analisar a quantidade de reprovações históricas das disciplinas
 - Interface
   - Responsiva pela mudança manual das disciplinas
+  - Conseguir salvar diferentes alternativas de grade final e compará-las
 - Etapas
   - Aquisição de informações
     - Pesquisa histórica
+      - Levantar dados: quantidade de reprovações - Pessoas que perderam em pelo menos 1
     - Salas
       - Vagas e caracterísicas
     - Disciplinas
@@ -94,6 +96,12 @@
         - Tempo de processamento
 - Como permitir a adição de restrições ou objetivos manualmente?
 - Manipulação com Manim para modificação da fórmula matemática de programação inteira?
+- Tirar foto/escanear rabiscos e tentativas de mudança de grade nos períodos anteriores.
+  - Fazer uma comparação automatizada de cada uma das tentativas dos últimos semestres, incluindo as grades
+- Apresentação impressionante
+  - Usar a ideia [desse holograma](https://youtu.be/z_xVCSyoo_c) para mexer num grafo 3D
+    - Tipo [assim](https://youtu.be/lLPmELPQpFw)
+- O scroll do mouse deve funcionar como um corte planar nas visualizações, permitindo andar em uma dimensão: ver a grade de cada aluno, a grade de cada professor, a grade de cada sala, a grade de cada horário. (isso seria BOM DEMAIS!!!) - Curvas de nível em timetabling
 
 ## Definir prioridades
 
@@ -102,7 +110,7 @@
 - seg/qua, qua/sex, ter/qui
 - Limite de aula por dia
 
-## Dúvidas
+## Dúvidas e anotações
 
 - Como se sabe a disponibilidade das salas?
 - Quais são as salas apropriadas?
@@ -112,6 +120,21 @@
 - Manipulação com Manim para modificação da fórmula matemática de programação inteira?
 - Alguém tem uma listagem de todas as salas com todas as capacidades?
 - Se considerarmos a demanda total como critério, consequentemente a demanda real (as que os alunos de fato desejam se matricular) também será englobada no melhor caso?
+- De que forma eu posso tornar a multidimensionalidade do problema em algo visualmente agradável?
+  - Dias X Horas X Salas
+  - Pensei em uma abordagem 3D similar à troca de hotbar do Minecraft
+- Será que se eu fizer várias equações de programação inteira para encontrar várias otimizações diferentes eu conseguiria misturar elas de uma boa forma e achar uma ótima geral?
+- Interessante... Primeiro resolveriam-se os cálculos, físicas... as matemáticas e só depois as disciplinas específicas do curso. Interessante. Talvez eu poderia até definir isso como
+- devo considerar a quantidade de matérias que cada professor ministra e quais cada um tem predisposição a ministrar, num critério similar à sua preferência de horários
+- Será que eu deveria fazer um grafo de todas as disciplinas possíveis e à que cursos elas estão relacionadas?
+- Eu poderia ter uma tabela de pesos para cada critério, rodar o código para pesos aleatórios e ver qual deles acharia uma solução melhor
+- Fazer uma grade focando exclusivamente na redução de conflitos, mas seguindo as hard constraints (booleanas 0 e 1 que multiplicam o valor total?)
+  - E depois fazer um com os padrõezinhos mais normais tipo "seg e quarta de 14 às 16"
+- Acho que dá pra pensar no problema de timetabling como o problema de coloração de grafos e acho que já vi isso antes. Será que dá uma solução legal?
+- Se tem duas aulas de cálculo, elas não precisam ser no mesmo horário.
+- Fiquei com vontade de montar a grade do curso no mermaid fazendo eles num diagrama de sequência ou similar
+- Quantas heurísticas implementar?
+- Será que eu deveria só fazer o interativo? Talvez seja uma boa.
 
 ### Perguntas para Tang
 
@@ -164,6 +187,7 @@ Cbc (Forrest and Lougee-Heimer 2005)]
 - [Periodicos Capes][Capes]
 - [Salas CCT](https://uenf.br/cct/secretaria-academica/distribuicao-das-salas-de-aula-do-cct/)
 - [Site CCT](https://uenf.br/cct/)
+- [Esporte](https://robinxval.ugent.be/ITC2021/)
 
 [Capes]: https://www.periodicos.capes.gov.br/
 [LinkTMuller]: https://www.unitime.org/publications.php
